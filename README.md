@@ -7,23 +7,13 @@
 <a href="https://tanup-portfolio.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%F0%9F%9A%80;Lover+of+clean+UI+%26+clever+code+%E2%9C%A8;Always+building%2C+always+learning+%F0%9F%93%9A;Turning+coffee+into+products+%E2%98%95" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Tanupvats&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Tanupvats?label=Followers&style=for-the-badge&color=6366f1&labelColor=1c1917" alt="Followers" />
-<img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-6366f1?style=for-the-badge&labelColor=1c1917" alt="Focus" />
-
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```yaml
-name:        "Tanup"
-role:        "Full-Stack Developer"
+name:        "Tanup Vats"
+role:        "Full-Stack AI Engineer"
 location:    "Bengaluru, India 🇮🇳"
 portfolio:   "https://tanup-portfolio.vercel.app"
 focus:       ["Web Apps", "Clean UI/UX", "Performance"]
@@ -134,37 +124,8 @@ fun_fact:    "I debug with console.log and I'm not ashamed 😎"
 
 ---
 
-## 💭 Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
 
 ⭐ **From [Tanup](https://tanup-portfolio.vercel.app/)** — *Thanks for stopping by!*
 
-</div>## Hi there 👋
 
-<!--
-**Tanupvats/Tanupvats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
