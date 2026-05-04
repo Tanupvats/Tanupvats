@@ -163,16 +163,6 @@ Implements a range of OCR techniques for document understanding
 
 </div>
 
----
-
-## 🏆 Recognition & Awards
-
-- 🥇 **IBM FSS Converge Winner (Dec 2025)** — Best Agentic AI System (Banking)
-- 🏅 **TEDDI Recognition** — TVS Credit Services for most impactful project
-- 🌟 **Wall of Awesomeness & Tech-Titan** — Digit Insurance for outstanding contribution
-- 🎓 **Best Seminar Presentation** — Excellence in technical research
-
----
 
 ## 📚 Publications & Writing
 
