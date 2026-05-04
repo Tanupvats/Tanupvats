@@ -194,7 +194,7 @@ Implements a range of OCR techniques for document understanding
 </a>
 
 </div>
-
+ 
 ---
 
 <div align="center">
