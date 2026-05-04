@@ -1,19 +1,20 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi%20there%2C%20I'm%20Tanup%20%F0%9F%91%8B&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Crafting%20code%20%E2%80%A2%20Building%20experiences%20%E2%80%A2%20Shipping%20ideas&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Tanup%20Vats&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Senior%20Data%20Scientist%20%E2%80%A2%20GenAI%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://tanup-portfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%F0%9F%9A%80;Lover+of+clean+UI+%26+clever+code+%E2%9C%A8;Always+building%2C+always+learning+%F0%9F%93%9A;Turning+coffee+into+products+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=820&lines=Senior+Data+Scientist+%40+IBM+%F0%9F%92%BC;Building+Agentic+AI+systems+that+actually+ship+%F0%9F%9A%80;Generative+AI+%E2%80%A2+LLMs+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision;5.5%2B+years+turning+research+into+production" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Tanupvats&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Tanupvats?label=Followers&style=for-the-badge&color=6366f1&labelColor=1c1917" alt="Followers" />
-<img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-6366f1?style=for-the-badge&labelColor=1c1917" alt="Focus" />
+<!-- Header Badges -->
+<img src="https://img.shields.io/badge/Role-Senior%20Data%20Scientist-6366f1?style=for-the-badge&labelColor=1c1917" alt="Role" />
+<img src="https://img.shields.io/badge/Company-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1c1917" alt="IBM" />
+<img src="https://img.shields.io/badge/Experience-5.5%2B%20Years-22c55e?style=for-the-badge&labelColor=1c1917" alt="Experience" />
+<img src="https://img.shields.io/badge/Location-Bangalore%2C%20IN-f59e0b?style=for-the-badge&labelColor=1c1917" alt="Location" />
 
 </div>
 
@@ -21,18 +22,105 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```yaml
-name:        "Tanup"
-role:        "Full-Stack Developer"
-location:    "Bengaluru, India 🇮🇳"
-portfolio:   "https://tanup-portfolio.vercel.app"
-focus:       ["Web Apps", "Clean UI/UX", "Performance"]
-currently:   "Building cool things on the internet"
-learning:    "System Design • Advanced React Patterns"
-fun_fact:    "I debug with console.log and I'm not ashamed 😎"
+```python
+class TanupVats:
+    def __init__(self):
+        self.role        = "Senior Data Scientist @ IBM"
+        self.experience  = "5.5+ years"
+        self.location    = "Bangalore, India 🇮🇳"
+        self.focus       = ["Generative AI", "Agentic AI", "NLP", "Computer Vision"]
+        self.specialties = ["LLM Fine-tuning", "MLOps", "Edge Deployment",
+                            "Multi-Agent Systems", "RAG Pipelines"]
+        self.open_source = ["peftml", "docuvision"]   # Published on PyPI
+        self.mission     = "Translate complex AI research into business impact"
+
+    def current_focus(self):
+        return "Architecting production-grade Agentic AI systems on GCP"
 ```
 
-🌐 **Check out my portfolio →** [**tanup-portfolio.vercel.app**](https://tanup-portfolio.vercel.app/)
+🌐 **Portfolio →** [**tanup-portfolio.vercel.app**](https://tanup-portfolio.vercel.app/)
+
+---
+
+## 🚀 What I'm Working On
+
+> 🏦 **Production Agentic AI** for **Lloyd's Banking Group** — LangGraph-powered multi-step reasoning, MLOps on GCP (GKE + Vertex AI) with Jenkins CI/CD. Cut latency by **50%** and improved response accuracy by **40%** with custom AI guardrails.
+
+---
+
+## 💼 Experience Highlights
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔵 **IBM** — Senior Data Scientist
+*Dec 2025 – Present · Bangalore*
+
+Designing **production-grade Agentic AI systems** for global banking clients using LangGraph, GCP Vertex AI, and custom guardrails.
+
+</td>
+<td width="50%">
+
+### 🟢 **TVS Credit Services** — Data Scientist
+*May 2024 – Dec 2025 · Chennai*
+
+Built multi-agent customer support systems, **15M-scale facial recognition** for KYC fraud detection (0.42s latency), and Transformer-based loan recommenders for **6 Cr+ users**.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🟣 **Digit Insurance** — Associate Data Scientist
+*Jun 2021 – May 2024 · Bangalore*
+
+Personalized GenAI ad portal (**20K+ videos, 5 languages, +12% sales**), edge-optimized models (**80% smaller, 70% faster**), and multi-layer fraud detection.
+
+</td>
+<td width="50%">
+
+### ⚫ **MirrorSize US Inc** — CV Intern
+*Oct 2020 – Apr 2021 · Noida*
+
+3D deep learning for human mesh extraction (**SMPL, HMR**) and image calibration (**DeepCalib**).
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📦 Open Source — Published on PyPI
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🧩 [peftml](https://pypi.org/project/peftml/)
+**Quantize · Prune · Fine-tune**
+
+Lightweight toolkit for efficient LLM optimization
+
+`pip install peftml`
+
+</td>
+<td align="center" width="50%">
+
+### 📄 [docuvision](https://pypi.org/project/docuvision/)
+**OCR Toolkit**
+
+Implements a range of OCR techniques for document understanding
+
+`pip install docuvision`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -40,68 +128,88 @@ fun_fact:    "I debug with console.log and I'm not ashamed 😎"
 
 <div align="center">
 
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### **AI / ML / Deep Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### **GenAI · Agentic AI · NLP**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4A4A?style=for-the-badge&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFAA00?style=for-the-badge&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logoColor=white)
+
+### **Languages & Databases**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FFCD38?style=for-the-badge&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 
-### **Tools & Deployment**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### **Cloud · MLOps · Deployment**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+### **APIs & Tools**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 Recognition & Awards
+
+- 🥇 **IBM FSS Converge Winner (Dec 2025)** — Best Agentic AI System (Banking)
+- 🏅 **TEDDI Recognition** — TVS Credit Services for most impactful project
+- 🌟 **Wall of Awesomeness & Tech-Titan** — Digit Insurance for outstanding contribution
+- 🎓 **Best Seminar Presentation** — Excellence in technical research
+
+---
+
+## 📚 Publications & Writing
+
+- 📄 **Carrom Playing Robot with Automatic Shot Selection** — [SpringerLink](https://link.springer.com)
+- ✍️ **Shrinking Vision Models for Few Class** — [Medium](https://medium.com)
+- ✍️ **Anatomy of Zoom (Classical + Neural Network)** — [Medium](https://medium.com)
+
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://tanup-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/tanup-vats/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://twitter.com/your-twitter">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+<a href="mailto:mastertanupvats@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="https://pypi.org/user/tanupvats/">
+  <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" />
 </a>
-<a href="https://instagram.com/your-instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<a href="https://medium.com/@tanupvats">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
-
-</div>
-
----
-
-## 💭 Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
 
@@ -109,10 +217,10 @@ fun_fact:    "I debug with console.log and I'm not ashamed 😎"
 
 <div align="center">
 
-### ✨ *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+### 💭 *"The best way to predict the future is to build it — one model, one agent, one deploy at a time."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
 
-⭐ **From [Tanup](https://tanup-portfolio.vercel.app/)** — *Thanks for stopping by!*
+⭐ **From [Tanup Vats](https://tanup-portfolio.vercel.app/)** — *Thanks for stopping by!*
 
 </div>
