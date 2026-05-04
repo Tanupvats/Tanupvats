@@ -163,6 +163,7 @@ Implements a range of OCR techniques for document understanding
 
 </div>
 
+---
 
 ## 📚 Publications & Writing
 
