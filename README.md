@@ -35,7 +35,7 @@ class TanupVats:
         self.mission     = "Translate complex AI research into business impact"
 
     def current_focus(self):
-        return "Architecting production-grade Agentic AI systems on GCP"
+        return "Architecting production-grade Agentic AI systems on GCP, AZURE and AWS"
 ```
 
 🌐 **Portfolio →** [**tanup-portfolio.vercel.app**](https://tanup-portfolio.vercel.app/)
