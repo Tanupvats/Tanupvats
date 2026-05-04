@@ -7,13 +7,23 @@
 <a href="https://tanup-portfolio.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%F0%9F%9A%80;Lover+of+clean+UI+%26+clever+code+%E2%9C%A8;Always+building%2C+always+learning+%F0%9F%93%9A;Turning+coffee+into+products+%E2%98%95" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=Tanupvats&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Tanupvats?label=Followers&style=for-the-badge&color=6366f1&labelColor=1c1917" alt="Followers" />
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-6366f1?style=for-the-badge&labelColor=1c1917" alt="Focus" />
+
+</div>
+
 ---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```yaml
-name:        "Tanup Vats"
-role:        "Full-Stack AI Engineer"
+name:        "Tanup"
+role:        "Full-Stack Developer"
 location:    "Bengaluru, India 🇮🇳"
 portfolio:   "https://tanup-portfolio.vercel.app"
 focus:       ["Web Apps", "Clean UI/UX", "Performance"]
@@ -63,43 +73,6 @@ fun_fact:    "I debug with console.log and I'm not ashamed 😎"
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Tanupvats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanupvats&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1" alt="Tanup's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanupvats&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanupvats&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tanupvats&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanupvats&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -124,8 +97,22 @@ fun_fact:    "I debug with console.log and I'm not ashamed 😎"
 
 ---
 
+## 💭 Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
 
 ⭐ **From [Tanup](https://tanup-portfolio.vercel.app/)** — *Thanks for stopping by!*
 
-
+</div>
