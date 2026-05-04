@@ -33,61 +33,51 @@ class TanupVats:
                             "Multi-Agent Systems", "RAG Pipelines"]
         self.open_source = ["peftml", "docuvision"]   # Published on PyPI
         self.mission     = "Translate complex AI research into business impact"
-
-    def current_focus(self):
-        return "Architecting production-grade Agentic AI systems on GCP, AZURE and AWS"
 ```
 
 🌐 **Portfolio →** [**tanup-portfolio.vercel.app**](https://tanup-portfolio.vercel.app/)
 
 ---
 
-## 🚀 What I'm Working On
-
-> 🏦 **Production Agentic AI** for **Lloyd's Banking Group** — LangGraph-powered multi-step reasoning, MLOps on GCP (GKE + Vertex AI) with Jenkins CI/CD. Cut latency by **50%** and improved response accuracy by **40%** with custom AI guardrails.
-
----
-
-## 💼 Experience Highlights
-
-<table>
-<tr>
-<td width="50%">
+## 💼 Experience
 
 ### 🔵 **IBM** — Senior Data Scientist
 *Dec 2025 – Present · Bangalore*
 
-Designing **production-grade Agentic AI systems** for global banking clients using LangGraph, GCP Vertex AI, and custom guardrails.
+Architecting **production-grade Agentic AI systems** for global banking clients (Lloyd's Banking Group). Leveraging **LangGraph** for multi-step reasoning and explainable insights, building high-performance **MLOps pipelines on GCP** (GKE, Vertex AI) with Jenkins CI/CD, and engineering custom AI guardrails — delivering **50% latency reduction** and **40% accuracy improvement**.
 
-</td>
-<td width="50%">
+---
 
 ### 🟢 **TVS Credit Services** — Data Scientist
 *May 2024 – Dec 2025 · Chennai*
 
-Built multi-agent customer support systems, **15M-scale facial recognition** for KYC fraud detection (0.42s latency), and Transformer-based loan recommenders for **6 Cr+ users**.
+Owned end-to-end ML solutions across the full lending lifecycle:
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+- 🤖 **Multi-Agent Customer Support System** — Agentic Graph orchestrating Semantic RAG, EMI Calculator, User Lookup, and Automated Ticketing tools. Built a hybrid retrieval pipeline (**Vector + BM25 + FlashRank**) powered by **Azure OpenAI (GPT-4o-mini)**.
+- 💬 **LLM-Powered SQL Knowledge Base** — Self-service web app for RMs and Bank Managers. Cut data turnaround time by **70–80%**, processing **2,000+ queries/month**.
+- 👤 **Facial Recognition for KYC Fraud** — Deployed at scale across **15M customers** with **0.42s latency**, from data ingestion through transfer learning to production.
+- 📈 **Loan Recommendation Engine** — Transformer-encoder sequence model achieving **94% top-3 accuracy** for 1.5 Cr customers and **81%** for 4.5 Cr prospects.
+- 🎯 **Customer Segmentation** — Scalable Deep SOM-based segmentation across 6 Cr+ users.
+
+---
 
 ### 🟣 **Digit Insurance** — Associate Data Scientist
 *Jun 2021 – May 2024 · Bangalore*
 
-Personalized GenAI ad portal (**20K+ videos, 5 languages, +12% sales**), edge-optimized models (**80% smaller, 70% faster**), and multi-layer fraud detection.
+Drove generative AI, computer vision, and edge deployment initiatives:
 
-</td>
-<td width="50%">
+- 🎬 **Personalized Ad Portal (GenAI)** — Voice style transfer (**RVC**) + lip sync (**Wav2Lip**) generating **20,000+ personalized videos in 5 languages**, boosting brand recognition and **sales by up to 12%**.
+- 🖼️ **Synthetic Data Generator** — **150K+ photorealistic images** using stable diffusion inpainting and Poisson seamless cloning to scale model training data.
+- 📱 **Edge-Optimized Models** — Pruning + quantization on Lite Pose Detection, Component Detection, and Segmentation models. **80% smaller, 60–70% faster inference**.
+- 🛡️ **Multi-Layer Fraud Detection System** — EfficientNetB0 + SuperGlue + YOLOv8 + Siamese networks. **+18% precision, 89% overall recall**.
+- 📊 **Sensor-Based Fraud Detection** — Mobile sensor data + signal processing + computer vision for vehicle PreInspection. **98% accuracy**.
 
-### ⚫ **MirrorSize US Inc** — CV Intern
+---
+
+### ⚫ **MirrorSize US Inc** — SWE (Computer Vision) Intern
 *Oct 2020 – Apr 2021 · Noida*
 
-3D deep learning for human mesh extraction (**SMPL, HMR**) and image calibration (**DeepCalib**).
-
-</td>
-</tr>
-</table>
+Built **3D deep learning** models for human mesh and pose extraction (**SMPL, HMR**), benchmarked performance, and applied calibration techniques (**DeepCalib**) to minimize image distortion.
 
 ---
 
