@@ -144,6 +144,7 @@ Implements a range of OCR techniques for document understanding
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FFCD38?style=for-the-badge&logoColor=black)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-4479A1?style=for-the-badge&logoColor=white)
 
 ### **Cloud · MLOps · Deployment**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
