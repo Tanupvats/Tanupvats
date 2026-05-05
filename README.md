@@ -203,6 +203,6 @@ Implements a range of OCR techniques for document understanding
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
 
-⭐ **From [Tanup Vats](https://tanup-portfolio.vercel.app/)** — *Thanks for stopping by!*
+⭐ **From [Tanup Vats](https://tanup-portfolio.vercel.app/)** — *Thanks for stopping by!* 
 
 </div>
