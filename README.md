@@ -48,7 +48,7 @@ class TanupVats:
 ### 🔵 **IBM** — Senior Data Scientist
 *Dec 2025 – Present · Bangalore*
 
-Architecting **production-grade Agentic AI systems** for global banking clients (Lloyd's Banking Group). Built **LangGraph**-powered multi-step reasoning with explainable insights, deployed high-performance **MLOps pipelines on GCP** (GKE, Vertex AI) with Jenkins CI/CD, and engineered custom AI guardrails — delivering **50% latency reduction** and **40% accuracy improvement**.
+Architecting **production-grade Agentic AI systems**. Built **LangGraph**-powered multi-step reasoning with explainable insights, deployed high-performance **MLOps pipelines on GCP** (GKE, Vertex AI) with Jenkins CI/CD, and engineered custom AI guardrails — delivering **50% latency reduction** and **40% accuracy improvement**.
 
 </td>
 <td width="50%" valign="top">
